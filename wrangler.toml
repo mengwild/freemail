@@ -19,7 +19,7 @@ GUEST_PASSWORD="guest"
 JWT_TOKEN="fjiwaiv23164s4fdsfs6df6wfdx24212"
 JWT_TOKENGUEST_PASSWORD="dfsfsfxzcv3432221"
 SESSION_EXPIRE_DAYS="365"
-MAIL_DOMAIN="71sdxz8b.eu.cc","wildmeng.com"
+MAIL_DOMAIN="71sdxz8b.eu.cc,wildmeng.com"
 RESEND_API_KEY=""
 
 
